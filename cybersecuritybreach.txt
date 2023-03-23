@@ -1,0 +1,7 @@
+PlayStation Network Hack of 2011
+
+PlayStation Network was down for 24 as a result of a security breach with the personal info of more than 77 million users stolen.
+
+They used SQL injection that sent in code that leaked information to the hackers.
+
+Sony brought in a security firm to investigate the breach and update the service. 
